@@ -1,10 +1,12 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Vulkan,Vulkan,ORG,0.37735849056603776,0.0,de,5.3
 Indonesischer Vulkan,Indonesischer Vulkan,ORG,0.75,0.0,de,4.0
+GEO,GEO,ORG,1.0344827586206897,0.0,de,2.9
 indonesische Vulkan,indonesische Vulkan,ORG,0.0,0.0,de,2.0
-Vulkan,Vulkan,ORG,0.5,0.0,de,2.0
-GEO,GEO,ORG,1.0,0.0,de,2.0
 Reisterrassen & Inseltraum Gili,Reisterrassen & Inseltraum Gili,ORG,0.7,0.0,de,1.0
 Behörd…,Behörd…,ORG,0.0,0.0,de,1.0
 Buchmesse,Buchmesse,ORG,0.0,0.0,de,1.0
 Sentinel-2,Sentinel-2,ORG,0.0,0.0,de,1.0
 https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1.0
+indonesischem Vulkan,indonesischem Vulkan,ORG,0.0,0.0,de,1.0
+Kat…,Kat…,ORG,-0.7,0.0,de,1.0
