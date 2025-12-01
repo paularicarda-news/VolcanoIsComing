@@ -1,6 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Hayli Gubbi,Hayli Gubbi,PER,0.10101010101010101,0.19528619528619526,de,9.9
 Lewotobi Laki-Laki,Lewotobi Laki-Laki,PER,0.0,0.0,de,2.0
 Patrick Bahners,Patrick Bahners,PER,0.0,0.0,de,1.0
 Annette Pehnt,Annette Pehnt,PER,0.0,0.0,de,1.0
 Grindavíks Bewohnern,Grindavíks Bewohnern,PER,0.0,0.0,de,1.0
 Ramon Antonio Rodriguez,Ramon Antonio Rodriguez,PER,0.0,0.0,de,1.0
+Pompejis Untergang,Pompejis Untergang,PER,0.0,0.0,de,1.0
