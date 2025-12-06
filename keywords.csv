@@ -6,5 +6,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vulkan Warnstufe',de,Mitigation,#a24745,#a34e44,1,0.0458378896261839
 'Vulkan Warnung',de,Mitigation,#a26745,#a37e44,1,0.0396138116807572
 'Vulkan Eruption',de,Hazard,#5277f5,#537ee4,1,0.0389730506568076
-'Vulkan Evakuierung',de,Mitigation,#a74735,#a34e44,1,0.0126277436644901
-'Vulkan Flughafen',de,Impacts,#a267e5,#a37ee4,1,0.012313014490035884
+'Vulkan Flughafen',de,Impacts,#a267e5,#a37ee4,1,0.0123130144900358
+'Vulkan Evakuierung',de,Mitigation,#a74735,#a34e44,1,0.010883597114816585
