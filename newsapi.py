@@ -366,23 +366,6 @@ def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
        found = found and (not keyw in quote)  
     return found
 
-def checkKeywordInQuoteOld(keyword, quote, case=True, anyKey=False):
-    keyword = keyword.replace("+","").replace("-","")
-    keywords = keyword.strip("'").split(" ")
-    if(not case):
-        keywords = keyword.strip("'").lower().split(" ")
-        quote = quote.lower()
-    if(anyKey):
-      allFound = False
-      for keyw in keywords:
-        allFound = allFound or (keyw in quote)    
-    else:
-      allFound = True
-      for keyw in keywords:
-        allFound = allFound and (keyw in quote)  
-
-    return allFound
-
 def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
     keywordsLangDF = keywordsDF[keywordsDF['language']==language]
     foundArticles = []
