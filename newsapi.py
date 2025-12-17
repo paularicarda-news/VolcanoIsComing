@@ -408,7 +408,7 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.7)
+             valid = max(valid,0.7)
       # add seldom keywords twice if
       keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
       for index2, column2 in keywordsSeldomLangDF.iterrows(): 
@@ -417,20 +417,35 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
+             valid = max(valid,0.65) 
       if(not found):
         for index2, column2 in keywordsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.6) 
+             valid = max(valid,0.6) 
       if(not found):
         for index2, column2 in keywordsLangDF.iterrows(): 
-           allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=False)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.2) 
+             valid = max(valid,0.55) 
+      if(not found):
+        for index2, column2 in keywordsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=True, anyKey=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             valid = max(valid,0.3) 
+      if(not found):
+        for index2, column2 in keywordsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=False, anyKey=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             valid = max(valid,0.2) 
       data['valid'] = valid
       if(valid>0.15):
         foundKeywords.append(keyWord) 
