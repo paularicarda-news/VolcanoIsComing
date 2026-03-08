@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vulkan Flughafen',de,Impacts,#a267e5,#a37ee4,1,0.030185190495611032
-'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.0287210035037561
+'Vulkan Flughafen',de,Impacts,#a267e5,#a37ee4,1,0.030185190495611
+'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.025913002978192684
 'Vulkan Lava',de,Hazard,#4287f5,#437ef4,1,0.0094571523288508
 'Vulkan ausgebrochen',de,Hazard,#3267e5,#537ee4,1,0.0074840730336994
 'Vulkan Eruption',de,Hazard,#5277f5,#537ee4,1,0.0068293022034507
