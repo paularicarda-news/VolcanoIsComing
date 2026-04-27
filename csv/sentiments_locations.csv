@@ -1,6 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc
 Äthiopien,Äthiopien,LOC,0.00000000,0.11439842,de,16.90000000,4000639-6,337996,X,8.00000000,38.00000000,AFRICA,Ethiopia,NEAF
-Indonesien,Indonesien,LOC,0.24358974,0.00000000,de,15.60000000,4026761-1,1643084,X,-5.00000000,120.00000000,ASIA,Indonesia,SEA
+Indonesien,Indonesien,LOC,0.23030303,0.00000000,de,16.50000000,4026761-1,1643084,X,-5.00000000,120.00000000,ASIA,Indonesia,SEA
 Java,Java,LOC,0.04666667,0.00000000,de,15.00000000,,-1,,,,,,
 Sizilien,Sizilien,LOC,0.04827586,0.00000000,de,14.50000000,,-1,,,,,,
 Ätna,Ätna,LOC,-0.23118280,0.05376344,de,9.30000000,,-1,,,,,,
@@ -14,21 +14,21 @@ La Réunion,La Réunion,LOC,0.32142857,0.05952381,de,5.60000000,4049639-9,935317
 Europas,Europas,LOC,0.70588235,0.09803922,de,5.10000000,,-1,,,,,,
 Flughafen,Flughafen,LOC,-0.28000000,0.00000000,de,5.00000000,,-1,,,,,,
 Arabische Halbinsel,Arabische Halbinsel,LOC,-0.43750000,0.00000000,de,4.80000000,,-1,,,,,,
-Vulkans Semeru,Vulkans Semeru,LOC,0.00000000,0.00000000,de,4.60000000,,-1,,,,,,
 Aschesäule,Aschesäule,LOC,0.65217391,0.00000000,de,4.60000000,,-1,,,,,,
+Vulkans Semeru,Vulkans Semeru,LOC,0.00000000,0.00000000,de,4.60000000,,-1,,,,,,
 Lava,Lava,LOC,0.00000000,0.00000000,de,4.50000000,,-1,,,,,,
 Erde,Erde,LOC,0.00000000,0.00000000,de,4.30000000,,-1,,,,,,
 Negros,Negros,LOC,-0.09210526,0.13157895,de,3.80000000,,-1,,,,,,
-Schiwelutsch,Schiwelutsch,LOC,0.37037037,0.00000000,de,3.60000000,,-1,,,,,,
 Kamtschatka,Kamtschatka,LOC,0.37037037,0.00000000,de,3.60000000,,-1,,,,,,
+Schiwelutsch,Schiwelutsch,LOC,0.37037037,0.00000000,de,3.60000000,,-1,,,,,,
 Feuerberg,Feuerberg,LOC,0.38888889,0.00000000,de,3.60000000,,-1,,,,,,
 Kilauea,Kilauea,LOC,0.20588235,0.00000000,de,3.40000000,,-1,,,,,,
 Pompeji,Pompeji,LOC,0.00000000,0.00000000,de,3.10000000,4046755-7,3170335,X,40.74583300,14.49694400,EUROPE-AFRICA,Italy,MED
 Neapel,Neapel,LOC,0.00000000,0.00000000,de,3.00000000,4041476-0,3172394,X,40.83332900,14.25000000,EUROPE-AFRICA,Italy,MED
 Jahrtausenden,Jahrtausenden,LOC,0.00000000,0.00000000,de,2.90000000,,-1,,,,,,
 Gipfelkratern,Gipfelkratern,LOC,0.00000000,0.00000000,de,2.90000000,,-1,,,,,,
-Berlin,Berlin,LOC,0.24137931,0.00000000,de,2.90000000,4005728-8,2950157,X,52.50000000,13.41666900,EUROPE,Germany,WCE
 Mount Kanlaon,Mount Kanlaon,LOC,-0.06034483,0.25862069,de,2.90000000,,-1,,,,,,
+Berlin,Berlin,LOC,0.24137931,0.00000000,de,2.90000000,4005728-8,2950157,X,52.50000000,13.41666900,EUROPE,Germany,WCE
 Notunterkünften,Notunterkünften,LOC,-0.25000000,0.00000000,de,2.80000000,,-1,,,,,,
 Russlands,Russlands,LOC,0.00000000,0.00000000,de,2.80000000,,-1,,,,,,
 Europa,Europa,LOC,-0.46428571,0.00000000,de,2.80000000,4015701-5,6255148,X,48.69095900,9.14062000,EUROPE,Germany,WCE
@@ -40,79 +40,80 @@ Indischen Ozean,Indischen Ozean,LOC,0.70833333,0.00000000,de,2.40000000,,-1,,,,,
 Teneriffa,Teneriffa,LOC,0.77272727,0.00000000,de,2.20000000,,-1,,,,,,
 …,…,LOC,0.33333333,0.00000000,de,2.10000000,,-1,,,,,,
 Catania,Catania,LOC,0.00000000,0.00000000,de,2.10000000,4085181-3,2525068,X,37.50213000,15.08718900,EUROPE-AFRICA,Italy,MED
-Manila,Manila,LOC,0.50000000,0.00000000,de,2.00000000,4037344-7,1701668,X,14.60420000,120.98220000,ASIA,Philippines,SEA
+Vulkans Taal,Vulkans Taal,LOC,0.50000000,0.00000000,de,2.00000000,,-1,,,,,,
 Iran,Iran,LOC,-0.12500000,0.00000000,de,2.00000000,4027653-3,130758,X,32.00000000,53.00000000,ASIA,Iran,WCA
 Kilauea-Caldera,Kilauea-Caldera,LOC,0.35000000,0.00000000,de,2.00000000,,-1,,,,,,
-Vulkans Taal,Vulkans Taal,LOC,0.50000000,0.00000000,de,2.00000000,,-1,,,,,,
-Afrikas,Afrikas,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
-Vulkanausbruch,Vulkanausbruch,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
-Gestein,Gestein,LOC,-0.52631579,0.00000000,de,1.90000000,,-1,,,,,,
+Manila,Manila,LOC,0.50000000,0.00000000,de,2.00000000,4037344-7,1701668,X,14.60420000,120.98220000,ASIA,Philippines,SEA
 Afar,Afar,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
-Jakarta,Jakarta,LOC,0.00000000,0.00000000,de,1.90000000,4012546-4,1642911,X,-6.21462000,106.84512900,ASIA,Indonesia,SEA
+Gestein,Gestein,LOC,-0.52631579,0.00000000,de,1.90000000,,-1,,,,,,
 sch…,sch…,LOC,0.00000000,1.05263158,de,1.90000000,,-1,,,,,,
+Jakarta,Jakarta,LOC,0.00000000,0.00000000,de,1.90000000,4012546-4,1642911,X,-6.21462000,106.84512900,ASIA,Indonesia,SEA
+Vulkanausbruch,Vulkanausbruch,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
+Afrikas,Afrikas,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
+Bayerns,Bayerns,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
 Bergs,Bergs,LOC,0.00000000,0.00000000,de,1.80000000,,-1,,,,,,
-Ähthiopien,Ähthiopien,LOC,0.55555556,0.00000000,de,1.80000000,,-1,,,,,,
 Vulkane,Vulkane,LOC,0.00000000,0.00000000,de,1.80000000,,-1,,,,,,
 Fernen Osten Russlands,Fernen Osten Russlands,LOC,0.74074074,0.00000000,de,1.80000000,,-1,,,,,,
+Ähthiopien,Ähthiopien,LOC,0.55555556,0.00000000,de,1.80000000,,-1,,,,,,
 Äthiopiens,Äthiopiens,LOC,0.00000000,0.00000000,de,1.80000000,,-1,,,,,,
-Island,Island,LOC,0.00000000,0.00000000,de,1.60000000,4027754-9,2629691,X,65.00000000,-18.00000000,POLAR,Iceland,GIC
 Vulkanausbrüche,Vulkanausbrüche,LOC,0.87500000,0.00000000,de,1.60000000,,-1,,,,,,
-Grönland,Grönland,LOC,0.00000000,0.00000000,de,1.30000000,4022113-1,3425505,X,72.00000000,-40.00000000,POLAR,Greenland,GIC
+Island,Island,LOC,0.00000000,0.00000000,de,1.60000000,4027754-9,2629691,X,65.00000000,-18.00000000,POLAR,Iceland,GIC
+Vesuv,Vesuv,LOC,1.07692308,0.00000000,de,1.30000000,,-1,,,,,,
+USA,USA,LOC,0.00000000,0.00000000,de,1.30000000,4078704-7,6252001,X,39.75999900,-98.50000000,NORTH-AMERICA,United States,CNA
+Erdbeben erschüttern Sizilien,Erdbeben erschüttern Sizilien,LOC,-1.07692308,0.00000000,de,1.30000000,,-1,,,,,,
 El Chichón,El Chichón,LOC,0.38461538,0.38461538,de,1.30000000,,-1,,,,,,
 Lake Toba,Lake Toba,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
-USA,USA,LOC,0.00000000,0.00000000,de,1.30000000,4078704-7,6252001,X,39.75999900,-98.50000000,NORTH-AMERICA,United States,CNA
-Erdbeben auf Sizilien,Erdbeben auf Sizilien,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
-Vesuv,Vesuv,LOC,1.07692308,0.00000000,de,1.30000000,,-1,,,,,,
-Erdbeben erschüttern Sizilien,Erdbeben erschüttern Sizilien,LOC,-1.07692308,0.00000000,de,1.30000000,,-1,,,,,,
+Grönland,Grönland,LOC,0.00000000,0.00000000,de,1.30000000,4022113-1,3425505,X,72.00000000,-40.00000000,POLAR,Greenland,GIC
 Ätna-Region,Ätna-Region,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
+Erdbeben auf Sizilien,Erdbeben auf Sizilien,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
 Armero,Armero,LOC,0.00000000,0.00000000,de,1.10000000,,-1,,,,,,
 Nevado del Ruiz,Nevado del Ruiz,LOC,0.00000000,0.00000000,de,1.10000000,,-1,,,,,,
-Lavafontänen am Ätna,Lavafontänen am Ätna,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-Hawaii Lavasäulen,Hawaii Lavasäulen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Ätna rumort,Ätna rumort,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Vesuvs,Vesuvs,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Mittelmeer-Insel Sizilien,Mittelmeer-Insel Sizilien,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Stadt für Tage,Stadt für Tage,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-Brandschlag am Morgen,Brandschlag am Morgen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Halemaʻumaʻu-Krater,Halemaʻumaʻu-Krater,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Insel Sizilien,Insel Sizilien,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Asche-Wolken,Asche-Wolken,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Lavastrom,Lavastrom,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Kraftwerk Lichterfelde,Kraftwerk Lichterfelde,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Vul…,Vul…,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-Guatemala,Guatemala,LOC,0.85000000,0.00000000,de,1.00000000,4022428-4,3595528,X,15.50000000,-90.25000000,CENTRAL-AMERICA,Guatemala,SCA
-Schildvulkan,Schildvulkan,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Erdbeben der Stä…,Erdbeben der Stä…,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Italien,Italien,LOC,0.70000000,0.00000000,de,1.00000000,4027833-5,3175395,X,42.83332900,12.83333000,EUROPE-AFRICA,Italy,MED
-Gleißende Lava,Gleißende Lava,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Leuchtende Lava,Leuchtende Lava,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Gange,Gange,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Leuchtende Lava,Leuchtende Lava,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Brandschlag am Morgen,Brandschlag am Morgen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Kraftwerk Lichterfelde,Kraftwerk Lichterfelde,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Nevada,Nevada,LOC,0.70000000,0.00000000,de,1.00000000,4041996-4,5509151,X,39.25021000,-116.75118900,NORTH-AMERICA,United States,WNA
+Lavastrom,Lavastrom,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Gleißende Lava,Gleißende Lava,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Insel Sizilien,Insel Sizilien,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Stadt für Tage,Stadt für Tage,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Vul…,Vul…,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Mittelmeer-Insel Sizilien,Mittelmeer-Insel Sizilien,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Vesuvs,Vesuvs,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Italien,Italien,LOC,0.70000000,0.00000000,de,1.00000000,4027833-5,3175395,X,42.83332900,12.83333000,EUROPE-AFRICA,Italy,MED
+Lavafontänen am Ätna,Lavafontänen am Ätna,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Ätna rumort,Ätna rumort,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Asche-Wolken,Asche-Wolken,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Ätna auf Sizilien,Ätna auf Sizilien,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Rauchopfer,Rauchopfer,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Asiens,Asiens,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Stadt Pompeji,Stadt Pompeji,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-Hausaltären,Hausaltären,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Riesiger Lavastrom,Riesiger Lavastrom,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Vulkan-Spektakel,Vulkan-Spektakel,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Sicherheitsgründen,Sicherheitsgründen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Neue Erdbeben erschüttern Sizilien,Neue Erdbeben erschüttern Sizilien,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-La Palma,La Palma,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Big Island,Big Island,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Erdbeben,Erdbeben,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Vulkans Kanlaon,Vulkans Kanlaon,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Ascheregen,Ascheregen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-La Castellana,La Castellana,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Ägypten,Ägypten,LOC,0.00000000,0.00000000,de,1.00000000,4000556-2,357994,X,27.00000000,30.00000000,AFRICA,Egypt,SAH
+Halemaʻumaʻu-Krater,Halemaʻumaʻu-Krater,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Hawaii Lavasäulen,Hawaii Lavasäulen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Pax Romana,Pax Romana,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Nevada,Nevada,LOC,0.70000000,0.00000000,de,1.00000000,4041996-4,5509151,X,39.25021000,-116.75118900,NORTH-AMERICA,United States,WNA
+Ägypten,Ägypten,LOC,0.00000000,0.00000000,de,1.00000000,4000556-2,357994,X,27.00000000,30.00000000,AFRICA,Egypt,SAH
+La Castellana,La Castellana,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Ascheregen,Ascheregen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Bonn,Bonn,LOC,1.00000000,0.00000000,de,1.00000000,4007666-0,2946447,X,50.73416600,7.09527700,EUROPE,Germany,WCE
 Oregon,Oregon,LOC,0.70000000,0.00000000,de,1.00000000,4043760-7,5744337,X,44.29999900,-120.50139000,NORTH-AMERICA,United States,WNA
-Reisemobil,Reisemobil,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Vulkans Kanlaon,Vulkans Kanlaon,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Erdbeben,Erdbeben,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+La Palma,La Palma,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Piton de la Fournaise,Piton de la Fournaise,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Kanareninsel,Kanareninsel,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Erdbeben der Stä…,Erdbeben der Stä…,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Neue Erdbeben erschüttern Sizilien,Neue Erdbeben erschüttern Sizilien,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Russland,Russland,LOC,0.00000000,0.00000000,de,1.00000000,4076899-5,2017370,X,60.00000000,100.00000000,ASIA,Russia,ESB
-Bonn,Bonn,LOC,1.00000000,0.00000000,de,1.00000000,4007666-0,2946447,X,50.73416600,7.09527700,EUROPE,Germany,WCE
-Afar hinauszieht,Afar hinauszieht,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Eifel,Eifel,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Survival-Extraction-Spiel,Survival-Extraction-Spiel,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Sicherheitsgründen,Sicherheitsgründen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Vulkan-Spektakel,Vulkan-Spektakel,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Riesiger Lavastrom,Riesiger Lavastrom,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Hausaltären,Hausaltären,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Stadt Pompeji,Stadt Pompeji,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Big Island,Big Island,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Schildvulkan,Schildvulkan,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Guatemala,Guatemala,LOC,0.85000000,0.00000000,de,1.00000000,4022428-4,3595528,X,15.50000000,-90.25000000,CENTRAL-AMERICA,Guatemala,SCA
+Äthiopier,Äthiopier,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Reisemobil,Reisemobil,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Urlaubsinsel Bali,Urlaubsinsel Bali,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Hohen Norden,Hohen Norden,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Wunschliste,Wunschliste,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Japans,Japans,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
@@ -141,9 +142,10 @@ Bali,Bali,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Mount Batur,Mount Batur,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 pass… Inseln,pass… Inseln,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 nan,nan,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-Urlaubsinsel Bali,Urlaubsinsel Bali,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Urlaubsinsel,Urlaubsinsel,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Spaniens,Spaniens,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Eifel,Eifel,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Gasen,Gasen,LOC,-1.00000000,0.00000000,de,1.00000000,4527588-9,2778832,X,47.38333000,15.56667000,EUROPE,Austria,WCE
+Survival-Extraction-Spiel,Survival-Extraction-Spiel,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Römer,Römer,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Römisches Reich,Römisches Reich,LOC,0.70000000,0.00000000,de,1.00000000,4076778-4,8354456,X,41.89250000,12.48500000,EUROPE-AFRICA,Italy,MED
 Sumatra,Sumatra,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
@@ -155,9 +157,9 @@ Bewohner,Bewohner,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Danakil-Senke,Danakil-Senke,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Gubbi,Gubbi,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 wi…,wi…,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Äthiopier,Äthiopier,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Spaniens,Spaniens,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Afar hinauszieht,Afar hinauszieht,LOC,1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Afrika,Afrika,LOC,-0.70000000,0.00000000,de,1.00000000,4000695-5,6255146,X,7.18810000,21.09375000,AFRICA,Central African Republic,CAF
-Gasen,Gasen,LOC,-1.00000000,0.00000000,de,1.00000000,4527588-9,2778832,X,47.38333000,15.56667000,EUROPE,Austria,WCE
 Jahrtausen,Jahrtausen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Arabien,Arabien,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Medan,Medan,LOC,0.00000000,0.00000000,de,1.00000000,4469031-9,1214520,X,3.58333000,98.66666900,ASIA,Indonesia,SEA
@@ -170,4 +172,4 @@ Semeru Asche,Semeru Asche,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Mittwoch,Mittwoch,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Insel Java,Insel Java,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Aschepartikeln,Aschepartikeln,LOC,-1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Ätna auf Sizilien,Ätna auf Sizilien,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Xbox,Xbox,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
