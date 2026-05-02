@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vulkan Lava',de,Hazard,#4287f5,#437ef4,1,0.087847296572553
 'Vulkan ausgebrochen',de,Hazard,#3267e5,#537ee4,1,0.038169804986919
-'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.03555110924799498
-'Vulkan Eruption',de,Hazard,#5277f5,#537ee4,1,0.0220957512130812
+'Vulkanausbruch',de,Hazard,#4277f5,#537ee4,1,0.0355511092479949
+'Vulkan Eruption',de,Hazard,#5277f5,#537ee4,1,0.03378153853111902
 'Vulkan Warnung',de,Mitigation,#a26745,#a37e44,1,0.0210278422157321
 'Vulkan Aschewolke',de,Hazard,#6287f5,#537ee4,1,0.0028016507294606
 'Vulkan Flughafen',de,Impacts,#a267e5,#a37ee4,1,0.0012241434448088
