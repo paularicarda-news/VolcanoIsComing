@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vulkan Evakuierung',de,Mitigation,#a74735,#a34e44,1,0.4241668888040584
+'Vulkan Evakuierung',de,Mitigation,#a74735,#a34e44,2,0.48069187048344963
 'Vulkan Flughafen',de,Impacts,#a267e5,#a37ee4,3,0.1228571787080267
 'Vulkan Lava',de,Hazard,#4287f5,#437ef4,2,0.106886514342044
 'Vulkan ausgebrochen',de,Hazard,#3267e5,#537ee4,1,0.0776813278355189
@@ -7,4 +7,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vulkan Warnstufe',de,Mitigation,#a24745,#a34e44,2,0.0505634120286259
 'Vulkan Aschewolke',de,Hazard,#6287f5,#537ee4,2,0.0382685890310117
 'Vulkan Eruption',de,Hazard,#5277f5,#537ee4,2,0.0282848574241025
-'Vulkan Warnung',de,Mitigation,#a26745,#a37e44,1,0.004186121222781855
+'Vulkan Warnung',de,Mitigation,#a26745,#a37e44,1,0.0041861212227818
