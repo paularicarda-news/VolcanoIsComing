@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
-italienischen,italienischen,MISC,,,de,31.800000000000015
+italienischen,italienischen,MISC,,,de,34.00000000000001
+Ätna,Ätna,MISC,-0.1185606060606061,0.04545454545454547,de,26.000000000000018
 “,“,MISC,,,de,21.80000000000001
-Ätna,Ätna,MISC,-0.0374485596707819,0.024691358024691364,de,20.30000000000001
 indonesischen,indonesischen,MISC,,,de,18.400000000000002
 "Link
 ","Link
@@ -17,91 +17,103 @@ stern+,stern+,MISC,,,de,3.7
 Capital</li><li>4,Capital</li><li>4,MISC,,,de,3.7
 Videos,Videos,MISC,,,de,3.5
 Feuerberg auf Java,Feuerberg auf Java,MISC,,,de,3.4000000000000004
-Chinesisches,Chinesisches,MISC,,,de,2.6
 ePaper,ePaper,MISC,,,de,2.6
-Unterwasservulkans Hunga Tonga,Unterwasservulkans Hunga Tonga,MISC,,,de,2.1999999999999997
+Chinesisches,Chinesisches,MISC,,,de,2.6
+philippinischen,philippinischen,MISC,,,de,2.1999999999999997
 Unterwasservulkans,Unterwasservulkans,MISC,,,de,2.1999999999999997
 Vulkane,Vulkane,MISC,-0.3333333333333333,0.0,de,2.1999999999999997
-philippinischen,philippinischen,MISC,,,de,2.1999999999999997
+Unterwasservulkans Hunga Tonga,Unterwasservulkans Hunga Tonga,MISC,,,de,2.1999999999999997
 französischen,französischen,MISC,,,de,2.1
+Google,Google,MISC,,,de,2.1
 Indonesischer,Indonesischer,MISC,,,de,2.0
-DLC,DLC,MISC,,,de,1.9000000000000001
 italienische,italienische,MISC,,,de,1.9000000000000001
+DLC,DLC,MISC,,,de,1.9000000000000001
+e…,e…,MISC,,,de,1.9
+Tages,Tages,MISC,,,de,1.9
+Into the Fire,Into the Fire,MISC,,,de,1.9
 Italienische,Italienische,MISC,,,de,1.9
+Terra X,Terra X,MISC,,,de,1.9
 Pax Romana,Pax Romana,MISC,-1.0,0.0,de,1.9
 sic…,sic…,MISC,,,de,1.9
-Tages,Tages,MISC,,,de,1.9
-Terra X,Terra X,MISC,,,de,1.9
-Into the Fire,Into the Fire,MISC,,,de,1.9
-e…,e…,MISC,,,de,1.9
-Afar,Afar,MISC,0.0,0.0,de,1.8
 Semeru auf Java,Semeru auf Java,MISC,,,de,1.8
+Feuervulkans im Jahr 2018,Feuervulkans im Jahr 2018,MISC,,,de,1.8
+deutschen,deutschen,MISC,,,de,1.8
+Beginn des Jahres,Beginn des Jahres,MISC,,,de,1.8
+Afar,Afar,MISC,0.0,0.0,de,1.8
 Glühende Lava,Glühende Lava,MISC,0.2692307692307692,0.0,de,1.8
 Ätna-Vulkan,Ätna-Vulkan,MISC,,,de,1.8
-Beginn des Jahres,Beginn des Jahres,MISC,,,de,1.8
 Frostpunk 2,Frostpunk 2,MISC,,,de,1.8
-deutschen,deutschen,MISC,,,de,1.8
-Feuervulkans im Jahr 2018,Feuervulkans im Jahr 2018,MISC,,,de,1.8
+Jahre alte Mann,Jahre alte Mann,MISC,,,de,1.6
 Ausbrüchen,Ausbrüchen,MISC,,,de,1.3
 Internet,Internet,MISC,,,de,1.3
-griechischen,griechischen,MISC,,,de,1.3
-Nature ...,Nature ...,MISC,,,de,1.3
-Opossum-Brüdern Crash,Opossum-Brüdern Crash,MISC,,,de,1.3
-isländischen,isländischen,MISC,,,de,1.3
-Buck,Buck,MISC,,,de,1.3
-Vesuv im Jahr 79 n.,Vesuv im Jahr 79 n.,MISC,,,de,1.3
 Scenic Eclipse,Scenic Eclipse,MISC,,,de,1.3
-Google,Google,MISC,,,de,1.3
-römische,römische,MISC,,,de,1.3
-Ätna auf Sizilien,Ätna auf Sizilien,MISC,-0.7,0.0,de,1.3
+Opossum-Brüdern Crash,Opossum-Brüdern Crash,MISC,,,de,1.3
+Buck,Buck,MISC,,,de,1.3
 Lange Zeit,Lange Zeit,MISC,,,de,1.3
 Anno-DLC,Anno-DLC,MISC,,,de,1.3
-deutsche,deutsche,MISC,,,de,1.0
-Das könnt ihr natürlich,Das könnt ihr natürlich,MISC,,,de,1.0
-GameStar-Test,GameStar-Test,MISC,,,de,1.0
-Mayon-Vulkan,Mayon-Vulkan,MISC,-0.4666666666666666,0.3333333333333333,de,1.0
-Erste La,Erste La,MISC,,,de,1.0
-Tödliche Eruption“,Tödliche Eruption“,MISC,,,de,1.0
-Hunga TongaHunga Ha'apai,Hunga TongaHunga Ha'apai,MISC,,,de,1.0
-pazifischen Tonga-Inselgruppe,pazifischen Tonga-Inselgruppe,MISC,,,de,1.0
-Un…,Un…,MISC,,,de,1.0
-100.000 Jahre Schlaf,100.000 Jahre Schlaf,MISC,,,de,1.0
+isländischen,isländischen,MISC,,,de,1.3
+Nature ...,Nature ...,MISC,,,de,1.3
+griechischen,griechischen,MISC,,,de,1.3
+römische,römische,MISC,,,de,1.3
+US-amerikanischer,US-amerikanischer,MISC,,,de,1.3
+Ätna auf Sizilien,Ätna auf Sizilien,MISC,-0.7,0.0,de,1.3
+Vesuv im Jahr 79 n.,Vesuv im Jahr 79 n.,MISC,,,de,1.3
+Tei…,Tei…,MISC,,,de,1.0
+Vulkanausbruch“,Vulkanausbruch“,MISC,,,de,1.0
 AP16.05.2026,AP16.05.2026,MISC,,,de,1.0
-äthiopische,äthiopische,MISC,,,de,1.0
-Hunga Tonga-Hunga Ha’apai,Hunga Tonga-Hunga Ha’apai,MISC,,,de,1.0
-La Palma,La Palma,MISC,0.0,0.0,de,1.0
-Plus - Guide,Plus - Guide,MISC,,,de,1.0
-Kein zweites Pompeji,Kein zweites Pompeji,MISC,,,de,1.0
-Anno-Teilen,Anno-Teilen,MISC,,,de,1.0
+Un…,Un…,MISC,,,de,1.0
+Samstagmorgen 2.0…,Samstagmorgen 2.0…,MISC,,,de,1.0
+Handelsverbands Assoesercenti,Handelsverbands Assoesercenti,MISC,,,de,1.0
 Pompeji 2.0,Pompeji 2.0,MISC,,,de,1.0
-USGS Volcanoes,USGS Volcanoes,MISC,,,de,1.0
+Ge…,Ge…,MISC,,,de,1.0
+La Palma,La Palma,MISC,0.0,0.0,de,1.0
+Hunga Tonga-Hunga Ha’apai,Hunga Tonga-Hunga Ha’apai,MISC,,,de,1.0
 Buntes Spektakel am Himmel,Buntes Spektakel am Himmel,MISC,,,de,1.0
+Was tun,Was tun,MISC,,,de,1.0
+spek­taku­läre,spek­taku­läre,MISC,,,de,1.0
+USGS Volcanoes,USGS Volcanoes,MISC,,,de,1.0
+Was Reisende,Was Reisende,MISC,,,de,1.0
+Anno-Teilen,Anno-Teilen,MISC,,,de,1.0
+Reisende auf Sizilien,Reisende auf Sizilien,MISC,,,de,1.0
+Kein zweites Pompeji,Kein zweites Pompeji,MISC,,,de,1.0
+Vul…,Vul…,MISC,0.7,0.0,de,1.0
+Plus - Guide,Plus - Guide,MISC,,,de,1.0
+äthiopische,äthiopische,MISC,,,de,1.0
+100.000 Jahre Schlaf,100.000 Jahre Schlaf,MISC,,,de,1.0
+deutsche,deutsche,MISC,,,de,1.0
+Vulkanausbruchs,Vulkanausbruchs,MISC,0.0,1.0,de,1.0
+pazifischen Tonga-Inselgruppe,pazifischen Tonga-Inselgruppe,MISC,,,de,1.0
+Hunga TongaHunga Ha'apai,Hunga TongaHunga Ha'apai,MISC,,,de,1.0
+Mit…,Mit…,MISC,,,de,1.0
+Tödliche Eruption“,Tödliche Eruption“,MISC,,,de,1.0
+Rett…,Rett…,MISC,,,de,1.0
+Erste La,Erste La,MISC,,,de,1.0
+Ätna-Alarm,Ätna-Alarm,MISC,,,de,1.0
+Catania,Catania,MISC,-0.028248587570621465,0.0,de,1.0
+Ätna-Ausbruch,Ätna-Ausbruch,MISC,0.0,0.0,de,1.0
+MMitten,MMitten,MISC,,,de,1.0
+Münchner,Münchner,MISC,,,de,1.0
+Nebenvulkan,Nebenvulkan,MISC,,,de,1.0
+Marketing-Reise,Marketing-Reise,MISC,,,de,1.0
+koreanischen,koreanischen,MISC,,,de,1.0
+Feuerberg auf Sizilien,Feuerberg auf Sizilien,MISC,,,de,1.0
+GameStar-Test,GameStar-Test,MISC,,,de,1.0
+l…,l…,MISC,,,de,1.0
+Jahr 79 n.,Jahr 79 n.,MISC,,,de,1.0
+Reuters08.08.2026,Reuters08.08.2026,MISC,,,de,1.0
 süditalienische,süditalienische,MISC,,,de,1.0
-Mega-Vulkan,Mega-Vulkan,MISC,,,de,1.0
 Warnstufe für den Luftverkehr,Warnstufe für den Luftverkehr,MISC,,,de,1.0
+DLC Breach of Trust&nbsp;wird,DLC Breach of Trust&nbsp;wird,MISC,,,de,1.0
+Eisw&uuml;ste,Eisw&uuml;ste,MISC,,,de,1.0
+indonesische,indonesische,MISC,,,de,1.0
+Fuego,Fuego,MISC,0.0,0.0,de,1.0
+Eyjafjallajökull im Jahr 2010,Eyjafjallajökull im Jahr 2010,MISC,,,de,1.0
 zei…,zei…,MISC,,,de,1.0
+v…,v…,MISC,,,de,1.0
 S…,S…,MISC,,,de,1.0
 Peak-Season,Peak-Season,MISC,,,de,1.0
 N…,N…,MISC,,,de,1.0
 Vulkan-Alarm,Vulkan-Alarm,MISC,,,de,1.0
-Tag der jüngsten Eruptionsphase des Ätna,Tag der jüngsten Eruptionsphase des Ätna,MISC,,,de,1.0
-Catania,Catania,MISC,-0.033003300330032986,0.0,de,1.0
-Ätna-Ausbruch,Ätna-Ausbruch,MISC,0.0,0.0,de,1.0
-Reisende auf Sizilien,Reisende auf Sizilien,MISC,,,de,1.0
-Ätna-Alarm,Ätna-Alarm,MISC,,,de,1.0
-spek­taku­läre,spek­taku­läre,MISC,,,de,1.0
-Was tun,Was tun,MISC,,,de,1.0
-Ge…,Ge…,MISC,,,de,1.0
-Handelsverbands Assoesercenti,Handelsverbands Assoesercenti,MISC,,,de,1.0
-Vulkanausbruch“,Vulkanausbruch“,MISC,,,de,1.0
-Samstagmorgen 2.0…,Samstagmorgen 2.0…,MISC,,,de,1.0
-Was Reisende,Was Reisende,MISC,,,de,1.0
-MMitten,MMitten,MISC,,,de,1.0
-Reuters08.08.2026,Reuters08.08.2026,MISC,,,de,1.0
-Eiskalter Wind…,Eiskalter Wind…,MISC,,,de,1.0
-Feuerberg auf Sizilien,Feuerberg auf Sizilien,MISC,,,de,1.0
-Warnungen vo,Warnungen vo,MISC,,,de,1.0
-Ice Age,Ice Age,MISC,,,de,1.0
 "Film
 
  
@@ -125,24 +137,15 @@ Ice Age,Ice Age,MISC,,,de,1.0
 
  
  The Walt Disney Company",MISC,,,de,1.0
-v…,v…,MISC,,,de,1.0
-Eyjafjallajökull im Jahr 2010,Eyjafjallajökull im Jahr 2010,MISC,,,de,1.0
-indonesische,indonesische,MISC,,,de,1.0
-Eisw&uuml;ste,Eisw&uuml;ste,MISC,,,de,1.0
-DLC Breach of Trust&nbsp;wird,DLC Breach of Trust&nbsp;wird,MISC,,,de,1.0
-KI,KI,MISC,,,de,1.0
-Jahr 79 n.,Jahr 79 n.,MISC,,,de,1.0
-l…,l…,MISC,,,de,1.0
-koreanischen,koreanischen,MISC,,,de,1.0
-Marketing-Reise,Marketing-Reise,MISC,,,de,1.0
-Münchner,Münchner,MISC,,,de,1.0
-Tei…,Tei…,MISC,,,de,1.0
-Fuego,Fuego,MISC,0.0,0.0,de,1.0
-Nebenvulkan,Nebenvulkan,MISC,,,de,1.0
-Vesuvs im Jahr 79,Vesuvs im Jahr 79,MISC,,,de,1.0
-Die Vulkan-Erweiterung,Die Vulkan-Erweiterung,MISC,,,de,1.0
-Jahr 79,Jahr 79,MISC,,,de,1.0
-indonesischer,indonesischer,MISC,,,de,1.0
+Tag der jüngsten Eruptionsphase des Ätna,Tag der jüngsten Eruptionsphase des Ätna,MISC,,,de,1.0
+Ice Age,Ice Age,MISC,,,de,1.0
+Warnungen vo,Warnungen vo,MISC,,,de,1.0
+Eiskalter Wind…,Eiskalter Wind…,MISC,,,de,1.0
+Mega-Vulkan,Mega-Vulkan,MISC,,,de,1.0
+Mayon-Vulkan,Mayon-Vulkan,MISC,-0.4666666666666666,0.3333333333333333,de,1.0
+Mount Dukono... +++WM in Gefahr,Mount Dukono... +++WM in Gefahr,MISC,,,de,1.0
+Das könnt ihr natürlich,Das könnt ihr natürlich,MISC,,,de,1.0
+Fatale KettenreaktionVulkanausbruch,Fatale KettenreaktionVulkanausbruch,MISC,,,de,1.0
 Wild Sumatra,Wild Sumatra,MISC,,,de,1.0
 Ready to Hang with Orangutans,Ready to Hang with Orangutans,MISC,,,de,1.0
 "Airline
@@ -153,8 +156,8 @@ Aschewolke“,Aschewolke“,MISC,,,de,1.0
 Videos und Satellitenbilder,Videos und Satellitenbilder,MISC,,,de,1.0
 X,X,MISC,,,de,1.0
 12.000 Jahre Ruhe,12.000 Jahre Ruhe,MISC,,,de,1.0
-Fatale KettenreaktionVulkanausbruch,Fatale KettenreaktionVulkanausbruch,MISC,,,de,1.0
 Schwarzen Tod,Schwarzen Tod,MISC,,,de,1.0
+Der Vulkan Ätna,Der Vulkan Ätna,MISC,,,de,1.0
 Pest,Pest,MISC,,,de,1.0
 Lavamasse,Lavamasse,MISC,,,de,1.0
 weiterlesenDer Lake Toba,weiterlesenDer Lake Toba,MISC,,,de,1.0
@@ -162,9 +165,10 @@ hefti…,hefti…,MISC,,,de,1.0
 IP-Adresse…,IP-Adresse…,MISC,,,de,1.0
 Ascheregen auf Sizilien,Ascheregen auf Sizilien,MISC,,,de,1.0
 Deutschen,Deutschen,MISC,,,de,1.0
+Gut vier Jahre nach der verheerenden Ahrflut,Gut vier Jahre nach der verheerenden Ahrflut,MISC,,,de,1.0
 Ur…,Ur…,MISC,,,de,1.0
+indonesischer,indonesischer,MISC,,,de,1.0
 Warnstufe …,Warnstufe …,MISC,,,de,1.0
-Pompeji-Opfer,Pompeji-Opfer,MISC,1.0,0.0,de,1.0
 Minamidake-Krater,Minamidake-Krater,MISC,,,de,1.0
 Koff…,Koff…,MISC,,,de,1.0
 Aschesäule“,Aschesäule“,MISC,,,de,1.0
@@ -185,40 +189,40 @@ kolumbianischen,kolumbianischen,MISC,,,de,1.0
 Vulnado“,Vulnado“,MISC,,,de,1.0
 Kīlauea-Vulkan,Kīlauea-Vulkan,MISC,,,de,1.0
 Klauea-Vulkan,Klauea-Vulkan,MISC,,,de,1.0
-Gut vier Jahre nach der verheerenden Ahrflut,Gut vier Jahre nach der verheerenden Ahrflut,MISC,,,de,1.0
 urlaubsreif,urlaubsreif,MISC,,,de,1.0
-Der Vulkan Ätna,Der Vulkan Ätna,MISC,,,de,1.0
 Rote Warnung auf Sizilien - Ätna,Rote Warnung auf Sizilien - Ätna,MISC,,,de,1.0
-"Vulkan""-DLC","Vulkan""-DLC",MISC,,,de,1.0
-Content-Paket,Content-Paket,MISC,,,de,1.0
+Vesuvs im Jahr 79,Vesuvs im Jahr 79,MISC,,,de,1.0
+DLC-Update,DLC-Update,MISC,,,de,1.0
 Download-Erweiterung,Download-Erweiterung,MISC,,,de,1.0
 Die Verheißung des Vulkans,Die Verheißung des Vulkans,MISC,,,de,1.0
 Europäischer,Europäischer,MISC,,,de,1.0
 Ei…,Ei…,MISC,,,de,1.0
-au…,au…,MISC,,,de,1.0
+Die Vulkan-Erweiterung,Die Vulkan-Erweiterung,MISC,,,de,1.0
 DLC-Erweiterung,DLC-Erweiterung,MISC,,,de,1.0
 Anno 1800,Anno 1800,MISC,,,de,1.0
-Mount Dukono... +++WM in Gefahr,Mount Dukono... +++WM in Gefahr,MISC,,,de,1.0
-DLC-Update,DLC-Update,MISC,,,de,1.0
+au…,au…,MISC,,,de,1.0
 Spielv…,Spielv…,MISC,,,de,1.0
+Reuters28.12.2025,Reuters28.12.2025,MISC,,,de,1.0
 Magma,Magma,MISC,,,de,1.0
 Flucht vor dem Vulkanausbruch,Flucht vor dem Vulkanausbruch,MISC,,,de,1.0
 Vesuvausbruchs,Vesuvausbruchs,MISC,,,de,1.0
 Ein Mann ver…,Ein Mann ver…,MISC,,,de,1.0
 Ein jüngere Mann,Ein jüngere Mann,MISC,,,de,1.0
+Pompeji-Opfer,Pompeji-Opfer,MISC,1.0,0.0,de,1.0
+Jahr 79,Jahr 79,MISC,,,de,1.0
+KI,KI,MISC,,,de,1.0
+Content-Paket,Content-Paket,MISC,,,de,1.0
+"Vulkan""-DLC","Vulkan""-DLC",MISC,,,de,1.0
 Anno 117 Pax Romana,Anno 117 Pax Romana,MISC,,,de,1.0
 Winzige Aschereste,Winzige Aschereste,MISC,,,de,1.0
-Erdbeben bis zur Stärke,Erdbeben bis zur Stärke,MISC,,,de,1.0
-Halemaumau-Krater,Halemaumau-Krater,MISC,,,de,1.0
-Reuters28.12.2025,Reuters28.12.2025,MISC,,,de,1.0
 Der Tag vor dem Inferno,Der Tag vor dem Inferno,MISC,,,de,1.0
-Lava,Lava,MISC,0.05223880597014924,0.0,de,1.0
+Lava,Lava,MISC,0.04929577464788731,0.0,de,1.0
 Asche,Asche,MISC,0.20588235294117643,0.0,de,1.0
 Berliner,Berliner,MISC,,,de,1.0
 Vulkangruppen“,Vulkangruppen“,MISC,,,de,1.0
 Indymedia,Indymedia,MISC,,,de,1.0
+Halemaumau-Krater,Halemaumau-Krater,MISC,,,de,1.0
 hawaiianischen,hawaiianischen,MISC,,,de,1.0
-Ber…,Ber…,MISC,,,de,1.0
 spanischen,spanischen,MISC,,,de,1.0
 Tagen v…,Tagen v…,MISC,,,de,1.0
 Lithium-Hunger,Lithium-Hunger,MISC,,,de,1.0
@@ -226,4 +230,6 @@ DLC-Details,DLC-Details,MISC,,,de,1.0
 DLCs,DLCs,MISC,,,de,1.0
 Anno 117 könnt,Anno 117 könnt,MISC,,,de,1.0
 Klage gegen DW,Klage gegen DW,MISC,,,de,1.0
-Vul…,Vul…,MISC,0.7,0.0,de,1.0
+Ber…,Ber…,MISC,,,de,1.0
+Erdbeben bis zur Stärke,Erdbeben bis zur Stärke,MISC,,,de,1.0
+Tragödie auf dem Ätna,Tragödie auf dem Ätna,MISC,,,de,1.0
