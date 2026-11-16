@@ -1,5 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc
-Sizilien,Sizilien,LOC,0.01360104,0.05354059,de,77.20000000,,-1,,,,,,
+Sizilien,Sizilien,LOC,0.01351351,0.05319605,de,77.70000000,,-1,,,,,,
 Indonesien,Indonesien,LOC,-0.13633880,0.02185792,de,61.00000000,4026761-1,1643084,X,-5.00000000,120.00000000,ASIA,Indonesia,SEA
 Ätna,Ätna,LOC,0.00766871,0.01022495,de,48.90000000,,-1,,,,,,
 Catania,Catania,LOC,-0.32389163,0.00000000,de,40.60000000,4085181-3,2525068,X,37.50213000,15.08718900,EUROPE-AFRICA,Italy,MED
@@ -115,7 +115,7 @@ Provinz Ban…,Provinz Ban…,LOC,0.00000000,0.00000000,de,1.60000000,,-1,,,,,,
 Methana,Methana,LOC,0.00000000,1.87500000,de,1.60000000,,-1,,,,,,
 Japan,Japan,LOC,0.00000000,0.00000000,de,1.30000000,4028495-5,1861060,X,35.68536000,139.75308900,ASIA,Japan,EAS
 Alaska,Alaska,LOC,-1.53846154,0.00000000,de,1.30000000,4001016-8,5879092,X,64.80000000,-150.80000000,NORTH-AMERICA,United States,NWN
-Ätna-Ausbruchs,Ätna-Ausbruchs,LOC,0.00000000,0.76923077,de,1.30000000,,-1,,,,,,
+Magmas,Magmas,LOC,-1.53846154,0.00000000,de,1.30000000,,-1,,,,,,
 Vesuvs,Vesuvs,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
 Luzon,Luzon,LOC,0.88461538,0.00000000,de,1.30000000,,-1,,,,,,
 Ätna rumort,Ätna rumort,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
@@ -130,7 +130,7 @@ Kamerun,Kamerun,LOC,1.07692308,0.00000000,de,1.30000000,4029413-4,2233387,X,6.00
 Java Behördenangaben,Java Behördenangaben,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
 Nationalpark Bromo,Nationalpark Bromo,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
 lodern,lodern,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
-Magmas,Magmas,LOC,-1.53846154,0.00000000,de,1.30000000,,-1,,,,,,
+Ätna-Ausbruchs,Ätna-Ausbruchs,LOC,0.00000000,0.76923077,de,1.30000000,,-1,,,,,,
 Armero,Armero,LOC,0.00000000,0.00000000,de,1.10000000,,-1,,,,,,
 Nevado del Ruiz,Nevado del Ruiz,LOC,0.00000000,0.00000000,de,1.10000000,,-1,,,,,,
 Krisenmodus,Krisenmodus,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
